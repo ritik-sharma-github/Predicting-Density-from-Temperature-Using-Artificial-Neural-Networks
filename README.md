@@ -18,10 +18,17 @@ This project focuses on predicting the density of a monoethanolamine-methanol mi
 3. **Model Evaluation**
    - **Error Metrics:** Performance is evaluated using MSE and RMSE to quantify prediction accuracy. The Mean Absolute Percentage Error (MAPE) is also calculated to provide a percentage-based error metric.
    - **Comparison and Visualization:** Actual vs. predicted densities are compared, and error percentages are computed. Results are visualized through plots and saved to an Excel file for further analysis.
+![download (18)](https://github.com/user-attachments/assets/5d20317d-eac0-49f1-a47b-be5faccd0f56)
+
 
 4. **Results and Analysis**
    - **Comparison Tables:** A detailed comparison of actual vs. predicted densities is provided, including error percentages for each prediction.
    - **Visual Plots:** Graphical representations of the actual and predicted densities are generated to visually assess model performance.
+![Screenshot 2024-08-07 204858](https://github.com/user-attachments/assets/337c6226-f762-44f1-a8b5-2e2ecfd48d74)
+
+![download (19)](https://github.com/user-attachments/assets/1062eaa3-b887-4523-ab03-5c54f4bb20d9)
+
+![Screenshot 2024-08-07 204955](https://github.com/user-attachments/assets/299e9422-723f-4685-b56f-6193e984477b)
 
 5. **Additional Features**
    - **Model Visualization:** The model architecture is visualized using tools such as `pydot` and `graphviz`, offering insights into the network structure and layer configuration.
